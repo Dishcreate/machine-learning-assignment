@@ -11,10 +11,10 @@
 # Instructions 
 Required libraries 
 1) python 3.5 or up
-2) pandas  # pip install pandas
-3) numpy   # pip install numpy
-4) sk-learn  # pip install sklearn
-5) scipy   # pip install scipy
+2) pandas  # sudo pip3 install pandas
+3) numpy   # sudo pip3 install numpy
+4) sk-learn  # sudo pip3 install sklearn
+5) scipy   # sudo pip3 install scipy
 
 When you run the program in terminal please use following steps
 1) code file is assignm.py
